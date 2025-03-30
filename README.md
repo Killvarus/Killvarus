@@ -1,4 +1,13 @@
-### <div align="center">Я Ананьев Роман, начинающий ML-специалист </div>  
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"  />
+</div>
+
+
+
+### 
+<div align="center">Я Ананьев Роман, начинающий ML-специалист </div>  
   
 
 - 🔭 Студент физического факультета МГУ  
@@ -35,7 +44,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-origina
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="https://vk.com/iamlarionov1" target="_blank">
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/72px-VK_Compact_Logo_%282021-present%29.svg.png alt=vk style="margin-bottom: 1px;" />
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/72px-VK_Compact_Logo_%282021-present%29.svg.png alt=vk style="margin-bottom: 5px;" />
 </a>
 
 </div>  
