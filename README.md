@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-origina
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="https://vk.com/iamlarionov1" target="_blank">
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/72px-VK_Compact_Logo_%282021-present%29.svg.png alt=vk style="margin-bottom: 5px;" />
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/72px-VK_Compact_Logo_%282021-present%29.svg.png alt=vk style="margin-bottom: 1px;" />
 </a>
 
 </div>  
