@@ -10,7 +10,7 @@
 
 **Energy Craft** · с февраля 2026  
 Полноволновая инверсия лабораторных сейсмограмм SEG-Y. Сравнивал PINN, Implicit FWI и классическую FWI. Истинная модель в обучение не входит. На согласованной съёмке классическая FWI подняла R² крупномасштабного фона с 0,345 до 0,395.
-
+Код: [Energy Craft] (https://github.com/Killvarus/EnergyCraft))
 ## Публикация
 
 Первый автор: *Application of Algorithms for Selection and Analysis of Multicollinear Input Features in Solving Inverse Problems of Exploration Geophysics*.  
