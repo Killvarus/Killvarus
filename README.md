@@ -17,7 +17,7 @@
   разреза по сейсмограммам в Energy Craft.
 - **Первый автор статьи** в *Pattern Recognition and Image Analysis* (2026) — об отборе мультиколлинеарных признаков.
 - **Рекомендательные системы**: RL-дообучение генеративного рекомендера, автоматизация признаков для ранжирования,
-  ранжирование и рекомендации на табличных и текстовых данных.
+  сравнение 12 моделей от популярного до SASRec и LightGCN.
 - Подход к экспериментам: сильный бейзлайн, разбиение без утечек, доверительные интервалы и абляции. Если метод
   не сработал — разбираюсь почему и пишу об этом.
 
@@ -48,6 +48,7 @@
 |---|---|---|
 | [**credit-scoring**](https://github.com/Killvarus/credit-scoring) | EDA и проверка гипотез, WoE-скоркарта, KNN, лес, LightGBM / CatBoost / XGBoost, SHAP, экономика порога, симуляция A/B-теста | ROC-AUC 0,784 (+0,050 к логрегрессии), прибыль на заявителя +45%; расчёт мощности A/B |
 | [**credit-scoring-service**](https://github.com/Killvarus/credit-scoring-service) | MLOps: FastAPI, Docker, переобучение в Airflow с проверкой данных и champion / challenger, PSI-мониторинг, Prometheus, Telegram-бот, Kubernetes, Spark | 23 теста; в CI — сборка образа, смоук-тест контейнера, валидация манифестов, Spark-джоба |
+| [**recsys-movielens**](https://github.com/Killvarus/recsys-movielens) | 12 моделей с нуля: популярное, content-based, ItemKNN, EASE, iALS, BPR, Item2Vec, SASRec, MultVAE, LightGCN и др.; двухэтапная схема с LambdaMART; многорукие бандиты | Двухэтапная схема — NDCG@10 0,101 против 0,080 у EASE; показал, что последние 5 фильмов важнее всей истории |
 | [**learning-to-rank**](https://github.com/Killvarus/learning-to-rank) | Поиск по каталогу мебели (WANDS): BM25 с нуля, BERT, поточечный / попарный / списочный подходы, DSSM | NDCG@10 0,844 у RankNet против 0,805 у BM25 (p = 2·10⁻⁷) |
 | [**naive-bayes-spam**](https://github.com/Killvarus/naive-bayes-spam) | Наивный Байес с нуля на Enron-Spam: абляция предобработки, порог под долю ложных срабатываний, перенос между ящиками | F1 0,987, совпадает со sklearn; FPR 0,5% при recall 0,90 |
 
